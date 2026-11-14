@@ -10,4 +10,4 @@ jobs:
       - name: Dire bonjour
         run: echo "bonjour depuis le runner"
       - name: lister les fichiers
-        run: ls - la ./
+        run: ls -la ./
